@@ -35,8 +35,6 @@ Access the interactive tool directly:
 
 🌐 **[https://tavardt-new-zealand.github.io/llm-robustness-evaluator-nz/](https://tavardt-new-zealand.github.io/llm-robustness-evaluator-nz/)**
 
-🛠 **[https://tools.tavardt.com/nz/](https://tools.tavardt.com/nz/)**
-
 ---
 
 ## CLI Usage
