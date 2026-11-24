@@ -1,4 +1,3 @@
-
 # LLM Robustness Evaluator & Guardrails Stress Tester
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00ff88?style=flat-square&logo=github)](https://tavardt-new-zealand.github.io/llm-robustness-evaluator-nz/)
@@ -71,6 +70,14 @@ The defensive blueprint includes:
 - 🐍 Python filter for injection pattern detection
 - 📦 TypeScript middleware for Next.js APIs
 - 🔒 Hardened System Prompt template with immutable delimiters
+
+***
+
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/nz/
+* **Diagnostic Suite:** https://tools.tavardt.com/nz/
+* **Technical Contact:** https://ag.tavardt.com/nz/contact/
 
 ***
 
