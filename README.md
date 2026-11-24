@@ -74,32 +74,4 @@ The defensive blueprint includes:
 
 ***
 
-## Official Portals
-
-Access the official TAVARDT portal network:
-
-| Portal | URL |
-|-|-|
-| Official TAVARDT Portal | [Portal Institucional](https://ag.tavardt.com/nz/) |
-| Tools Hub | [Central de Ferramentas](https://tools.tavardt.com/nz/) |
-| Contact | [Canal de Contato](https://ag.tavardt.com/nz/contact/) |
-| GitHub | [https://github.com/TAVARDT-New-Zealand](https://github.com/TAVARDT-New-Zealand) |
-
-***
-
-## License
-
-MIT License  -  free use for defensive and educational purposes.
-
-***
-
-<p align="center">
-  <strong>TAVARDT  -  New Zealand</strong><br>
-  <a href="https://ag.tavardt.com/nz/">https://ag.tavardt.com/nz/</a> &bull;
-  <a href="https://tools.tavardt.com/nz/">https://tools.tavardt.com/nz/</a><br>
-  &copy; 2026 TAVARDT. All rights reserved.
-</p>
-
-***
-
 © 2026 TAVARDT. All rights reserved.
